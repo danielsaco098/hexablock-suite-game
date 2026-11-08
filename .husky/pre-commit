@@ -1,0 +1,2 @@
+pnpm run --if-present lint
+pnpm run --if-present test

@@ -1,0 +1,19 @@
+{
+  "name": "hexablock-suite-game",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.34.9",
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.4",
+    "@commitlint/config-conventional": "^21.2.4",
+    "husky": "^9.1.7"
+  },
+  "private": true,
+  "type": "module"
+}
